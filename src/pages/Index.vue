@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>lg-gridsome预渲染页面2.0</h1>
+    <h1>lg-gridsome预渲染页面3.0</h1>
     <ul>
       <!-- <li v-for="post in $page.posts.edges" :key="post.node.id" @click="handleRoute(post.node.id)">
         <div class="title">{{ post.node.title }}</div>
